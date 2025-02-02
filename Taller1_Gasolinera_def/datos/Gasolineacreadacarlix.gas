@@ -1,0 +1,13 @@
+tipo:Corriente:16000:29973.9996875
+tipo:Diesel:12000:22985.0
+tipo:Premium:25000:33983.0
+tipo:Ecológica:13000:17983.999076923075
+surtidor:Lia:Corriente:0.0:Diesel:0.0:Premium:12.0:Ecológica:0.0
+surtidor:Tom:Corriente:0.0:Diesel:15.0:Premium:0.0:Ecológica:0.0
+surtidor:Fernanda:Corriente:16.0:Diesel:0.0:Premium:5.0:Ecológica:0.0
+surtidor:Tom:Corriente:10.0003125:Diesel:0.0:Premium:0.0:Ecológica:16.000923076923076
+empleado:Tom:548017
+empleado:Lia:300000
+empleado:Juan:0
+empleado:Maria:0
+empleado:Fernanda:381000
